@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - puzzleL21",
+            "request": "launch",
+            "mainClass": "puzzleL21"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - puzzleL11",
+            "request": "launch",
+            "mainClass": "puzzleL11"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - puzzleL1",
+            "request": "launch",
+            "mainClass": "puzzleL1"
+        }
+    ]
+}
